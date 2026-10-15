@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<img src="top-waves.gif" width="100%" alt="" />
 
 <div style="width:300px;margin:0 auto;text-align:center">
 
@@ -122,7 +121,4 @@
 ### ✧ 谢谢你看到这里 ✧
 
 `愿你今天也有好心情 (๑˃̵ᴗ˂̵)و`
-
-<img src="footer.gif" width="100%" alt="" />
-
 </div>
