@@ -68,19 +68,46 @@
 
 <div align="center">
 
+## 📝 TODO LIST
+
+</div>
+
+- [x] 加入 HZCU 学生宝典项目，参与「轻首页」开发
+- [ ] 系统学习 **C / C++**，打好基础
+- [x] 学会用 Git 和 GitHub 协作（提 PR、写 README）
+- [ ] 了解 **Agent** 相关技术
+- [ ] 参加一次编程竞赛
+- [ ] 把主页装扮得更好看一点 ✧
+- [ ] 探索宇宙 🌌
+
+---
+<div align="center">
+
+## 💌 联系我
+
+<a href="https://space.bilibili.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bilibili-ffb3d9?style=for-the-badge&logo=bilibili&logoColor=white" />
+</a>
+<a href="https://github.com/BaKaMiku39" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-d9c7ff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:your-mail@example.com">
+  <img src="https://img.shields.io/badge/Gmail-b3e0ff?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
 ## 🎀 小标签
 
-<img src="https://img.shields.io/badge/Python-ffd9ec?style=for-the-badge&logo=python&logoColor=6b4f6b" />
+<img src="https://img.shields.io/badge/C-ffd9ec?style=for-the-badge&logo=c&logoColor=6b4f6b" />
+<img src="https://img.shields.io/badge/C%2B%2B-ffd9ec?style=for-the-badge&logo=cplusplus&logoColor=6b4f6b" />
 <br>
 <img src="https://img.shields.io/badge/Git-ffd9ec?style=for-the-badge&logo=git&logoColor=6b4f6b" />
 <img src="https://img.shields.io/badge/GitHub-ffd9ec?style=for-the-badge&logo=github&logoColor=6b4f6b" />
 <img src="https://img.shields.io/badge/Markdown-ffd9ec?style=for-the-badge&logo=markdown&logoColor=6b4f6b" />
 <img src="https://img.shields.io/badge/VS%20Code-ffd9ec?style=for-the-badge&logo=visualstudiocode&logoColor=6b4f6b" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=BaKaMiku39&hide_border=true&background=FFF0F6&ring=E05C8A&fire=E05C8A&currStreakLabel=E05C8A&sideLabels=E05C8A&dates=9b7f97" height="170" alt="连续提交" />
-
 </div>
 
 ---
@@ -91,6 +118,6 @@
 
 `愿你今天也有好心情 (๑˃̵ᴗ˂̵)و`
 
-<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%27120%27%20viewBox%3D%270%200%201200%20120%27%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%270%27%3E%0A%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%23d9efff%27%2F%3E%0A%3Cstop%20offset%3D%2750%25%27%20stop-color%3D%27%23e8dcff%27%2F%3E%0A%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%23ffd9ec%27%2F%3E%0A%3C%2FlinearGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20width%3D%271200%27%20height%3D%27120%27%20fill%3D%27url%28%23g%29%27%2F%3E%0A%3Cpath%20d%3D%27M0%2C45%20C200%2C5%20400%2C75%20600%2C40%20C800%2C5%201000%2C70%201200%2C35%20L1200%2C120%20L0%2C120%20Z%27%20fill%3D%27%23ffffff%27%20opacity%3D%270.75%27%2F%3E%0A%3C%2Fsvg%3E" width="100%" alt="" />
+<img src="footer.gif" width="100%" alt="" />
 
 </div>
