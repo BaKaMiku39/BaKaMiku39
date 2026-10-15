@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271200%27%20height%3D%27190%27%20viewBox%3D%270%200%201200%20190%27%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%0A%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%23ffd9ec%27%2F%3E%0A%3Cstop%20offset%3D%2750%25%27%20stop-color%3D%27%23e8dcff%27%2F%3E%0A%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%23d9efff%27%2F%3E%0A%3C%2FlinearGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20width%3D%271200%27%20height%3D%27190%27%20fill%3D%27url%28%23g%29%27%2F%3E%0A%3Cpath%20d%3D%27M0%2C140%20C200%2C185%20400%2C100%20600%2C135%20C800%2C170%201000%2C110%201200%2C150%20L1200%2C190%20L0%2C190%20Z%27%20fill%3D%27%23ffffff%27%20opacity%3D%270.55%27%2F%3E%0A%3Cpath%20d%3D%27M0%2C165%20C220%2C195%20420%2C130%20640%2C160%20C860%2C190%201020%2C140%201200%2C170%20L1200%2C190%20L0%2C190%20Z%27%20fill%3D%27%23ffffff%27%20opacity%3D%270.85%27%2F%3E%0A%3Ctext%20x%3D%27600%27%20y%3D%2788%27%20text-anchor%3D%27middle%27%20font-family%3D%27Segoe%20UI%2CPingFang%20SC%2CMicrosoft%20YaHei%2Csans-serif%27%20font-size%3D%2754%27%20font-weight%3D%27700%27%20fill%3D%27%23d94f86%27%3EBaKaMiku%3C%2Ftext%3E%0A%3Ctext%20x%3D%27600%27%20y%3D%27122%27%20text-anchor%3D%27middle%27%20font-family%3D%27Segoe%20UI%2CPingFang%20SC%2CMicrosoft%20YaHei%2Csans-serif%27%20font-size%3D%2717%27%20fill%3D%27%237a5b78%27%3E%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%B0%8F%E5%B1%8B%20%E2%9C%A7%3C%2Ftext%3E%0A%3C%2Fsvg%3E" width="100%" alt="BaKaMiku" />
+<img src="https://avatars.githubusercontent.com/u/76647722?v=4" />
 
 ### ヾ(≧▽≦*)o 嗨，我是 BaKaMiku
 
