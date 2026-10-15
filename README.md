@@ -12,7 +12,7 @@
 
 <div style="width:300px;margin:0 auto;text-align:center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=110&color=F725D3&multiline=true&repeat=false&center=true&vCenter=true&width=300&height=54&lines=%EA%92%B0%E0%A6%8C%28%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5%29%E0%BB%92%EA%92%B1;%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%9D%A5%E5%95%A6!" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&color=F725D3&multiline=true&repeat=true&center=true&vCenter=true&width=300&height=54&lines=%EA%92%B0%E0%A6%8C%28%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5%29%E0%BB%92%EA%92%B1;%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%9D%A5%E5%95%A6!" />
 
 </div>
 
