@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/76647722?v=4" width="46" style="vertical-align:middle;border-radius:50%;border:2px solid #ffb3d9;box-shadow:0 0 10px #ffd9ec;" />
-<span style="display:inline-block;vertical-align:middle;margin-left:12px;font-size:30px;font-weight:700;color:#d94f86;letter-spacing:2px;">主页</span>
+<span style="font-size:44px;">🍵🌸</span>
+<span style="font-size:44px;font-weight:700;color:#d94f86;margin-left:10px;">主页</span>
 
 </div>
 
-<div align="center">
-<img src="https://github.com/BaKaMiku39/BaKaMiku39/blob/main/footer.gif?raw=true" width="100%" alt="" />
-</div>
 <div align="center">
 
 
