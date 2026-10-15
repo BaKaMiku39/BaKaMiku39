@@ -1,16 +1,17 @@
 
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/76647722?v=4" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=100&color=F725D3&multiline=true&repeat=false&width=520&height=60&lines=%EA%92%B0%E0%A6%8C%28%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5%29%E0%BB%92%EA%92%B1;%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%9D%A5%E5%95%A6!" />
+<img src="https://github.com/BaKaMiku39/BaKaMiku39/blob/main/fd7304240aa73ddab13376e39fac130b_transparent.png?raw=true" width="200" height="200">
 
 ### ヾ(≧▽≦*)o 嗨，我是 BaKaMiku
 
 `✧ 一枚正在努力变强的计算机学生 ✧`
 
-<img src="https://img.shields.io/badge/-%F0%9F%8E%92%20%E6%B5%99%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%AD%A6%E9%99%A2-ffb3d9?style=for-the-badge&labelColor=ffd9ec" />
-<img src="https://img.shields.io/badge/-%F0%9F%92%BB%20%E5%9C%A8%E5%AD%A6%E5%89%8D%E7%AB%AF%20%C2%B7%20%E5%90%8E%E7%AB%AF-b3e0ff?style=for-the-badge&labelColor=d9efff" />
+<img src="https://img.shields.io/badge/-%F0%9F%8F%AB%20HZCU-ffb3d9?style=for-the-badge&labelColor=ffd9ec" />
+<img src="https://img.shields.io/badge/-%F0%9F%92%BB%20%E5%9C%A8%E5%AD%A6C&C++-b3e0ff?style=for-the-badge&labelColor=d9efff" />
 <br>
-<img src="https://img.shields.io/badge/-%E2%9C%A8%20%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E5%B0%8F%E5%B7%A5%E5%85%B7%20%C2%B7%20%E5%81%9A%E7%BD%91%E9%A1%B5%20%C2%B7%20%E6%91%B8%E9%B1%BC-d9c7ff?style=for-the-badge&labelColor=e8dcff" />
+<img src="https://img.shields.io/badge/-%E2%9C%A8%20%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E5%B0%8F%E5%B7%A5%E5%85%B7%20%C2%B7%20%E6%91%B8%E9%B1%BC-d9c7ff?style=for-the-badge&labelColor=e8dcff" />
+<img src="https://img.shields.io/badge/-%F0%9F%9A%80%20%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C!-d9c7ff?style=for-the-badge&labelColor=e8dcff" />
 
 </div>
 
@@ -23,11 +24,11 @@
 </div>
 
 ```yaml
-名字    : BaKaMiku
-身份    : 浙大城市学院 · 计算机相关专业在读
-正在做  : 折腾各种小工具 & 网页，偶尔写点代码
-兴趣    : 前端 · 工具链 · 把想法变成能点开的东西
-名言    : 先把东西跑起来，再想怎么优雅 (๑•̀ㅂ•́)و✧
+网名    : BaKaMiku
+身份    : HZCU · 计算机相关专业在读
+正在做  : 学习C&C++ · 了解agent · 探索宇宙
+兴趣    : 转生异世界 · 把想法变成能点开的东西
+名言    : 遇到困难,睡!大!觉!(得意
 ```
 
 <div align="center">
@@ -51,9 +52,9 @@
 </td>
 <td align="center" width="50%">
 
-**🌱 学习中**
+**🌱 沉淀中**
 
-正在补基础、写点小项目
+系统学习编程,积累电脑知识,准备竞赛
 
 <sub>✨ 主页会随着我的成长慢慢更新<br>欢迎常来看看～</sub>
 
@@ -70,10 +71,6 @@
 ## 🎀 小标签
 
 <img src="https://img.shields.io/badge/Python-ffd9ec?style=for-the-badge&logo=python&logoColor=6b4f6b" />
-<img src="https://img.shields.io/badge/Java-ffd9ec?style=for-the-badge&logo=openjdk&logoColor=6b4f6b" />
-<img src="https://img.shields.io/badge/HTML5-ffd9ec?style=for-the-badge&logo=html5&logoColor=6b4f6b" />
-<img src="https://img.shields.io/badge/CSS3-ffd9ec?style=for-the-badge&logo=css3&logoColor=6b4f6b" />
-<img src="https://img.shields.io/badge/JavaScript-ffd9ec?style=for-the-badge&logo=javascript&logoColor=6b4f6b" />
 <br>
 <img src="https://img.shields.io/badge/Git-ffd9ec?style=for-the-badge&logo=git&logoColor=6b4f6b" />
 <img src="https://img.shields.io/badge/GitHub-ffd9ec?style=for-the-badge&logo=github&logoColor=6b4f6b" />
