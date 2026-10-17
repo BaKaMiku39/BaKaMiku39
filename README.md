@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20%E5%9C%A8%E5%AD%A6C&C++-b3e0ff?style=for-the-badge&labelColor=d9efff" />
 <br>
 <img src="https://img.shields.io/badge/-%E2%9C%A8%20%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BE%E5%B0%8F%E5%B7%A5%E5%85%B7%20%C2%B7%20%E6%91%B8%E9%B1%BC-d9c7ff?style=for-the-badge&labelColor=e8dcff" />
-<img src="https://img.shields.io/badge/-%F0%9F%9A%80%20%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C!-d9c7ff?style=for-the-badge&labelColor=e8dcff" />
+<img src="https://img.shields.io/badge/-%F0%9F%9A%80%20%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C!-d9c7ff?style=for-the-badge&labelColor=4200BD" />
 
 </div>
 
